@@ -4,6 +4,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 <!--
 **AALLEEXXEEYY/AALLEEXXEEYY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
