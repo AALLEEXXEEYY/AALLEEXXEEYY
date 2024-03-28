@@ -2,25 +2,37 @@
 
 ---
 
-### :man_technologist: Обо мне:
+[//]: # (### :man_technologist: Обо мне:)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%44AEFB&lines=Beginner+Java+developer)](https://git.io/typing-svg)
 
-Я начинающий QA Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с курсов на Stepik, где я проходил курсы по программированию на Python. По их окончании был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык С/С++, Java, попробовал свои силы в data science и принимал участие в хакатонах! С ноября 2022 года по июнь 2023 обучался на курсе от Финтех Академии МТС по направлению автоматизации тестирования. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы/стажировки.
-
+[//]: # (Я начинающий Java разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. . Реализовываю различные проекты. В настоящий момент нахожусь в поисках работы/стажировки.)
+[//]: # (Мой путь в it начался с курсов на Stepik, где я проходил курсы по программированию на Python. По их окончании был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык С/С++, Java, попробовал свои силы в data science и принимал участие в хакатонах! С ноября 2022 года по июнь 2023 обучался на курсе от Финтех Академии МТС по направлению автоматизации тестирования)
 Резюме: https://myresume.ru/resume/1Fsn9Mn7AQD/
 
-Email: alex2002shest@mail.ru
+[//]: # (Email: alex2002shest@mail.ru)
+
+<a href="https://t.me/Mister_Gigachad" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+<a href = "mailto:alex2002shest@mail.ru"><img src="https://img.shields.io/badge/Mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
 
 - :telescope: Прохожу различные курсы и готов к совместным проектам :)
 
-- :seedling: Завершил курсы по автоматизации тестирования от Финтех Академии МТС!
+- :seedling: Студент МТС Аккадемии Java Backend
 
 - :zap: Активно участвую в хакатонах
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-					
-<br/> <br/> <br/> <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+[//]: # (Завершил курсы по автоматизации тестирования от Финтех Академии МТС!)
+
+
+[//]: # (<div id="header" align="center">)
+
+[//]: # (  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>)
+
+[//]: # (</div>)
+
+
+<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -31,7 +43,7 @@ Email: alex2002shest@mail.ru
     </td>
    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/108164455/209253674-80f643f3-df1a-44b7-9da3-38b4600b83f8.png" width="48" height="48" alt="Python" />
+        <img src="https://user-images.githubusercontent.com/108164455/209253674-80f643f3-df1a-44b7-9da3-38b4600b83f8.png" width="80" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
@@ -98,6 +110,11 @@ Email: alex2002shest@mail.ru
       <br>Maven
   </tr>
 </table>
+<h2 style="color: #44AEFB">⚡️Some statistics</h2>
+
+![Alexey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AALLEEXXEEYY&theme=tokyonight&show_icons=true)
+
+![Alexey's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AALLEEXXEEYY&theme=dark)
 
 
 <!--
